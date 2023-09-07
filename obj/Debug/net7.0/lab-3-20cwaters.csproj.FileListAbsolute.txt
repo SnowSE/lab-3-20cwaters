@@ -1,0 +1,14 @@
+C:\Users\casey.waters\code\lab-3-20cwaters\bin\Debug\net7.0\lab-3-20cwaters.exe
+C:\Users\casey.waters\code\lab-3-20cwaters\bin\Debug\net7.0\lab-3-20cwaters.deps.json
+C:\Users\casey.waters\code\lab-3-20cwaters\bin\Debug\net7.0\lab-3-20cwaters.runtimeconfig.json
+C:\Users\casey.waters\code\lab-3-20cwaters\bin\Debug\net7.0\lab-3-20cwaters.dll
+C:\Users\casey.waters\code\lab-3-20cwaters\bin\Debug\net7.0\lab-3-20cwaters.pdb
+C:\Users\casey.waters\code\lab-3-20cwaters\obj\Debug\net7.0\lab-3-20cwaters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casey.waters\code\lab-3-20cwaters\obj\Debug\net7.0\lab-3-20cwaters.AssemblyInfoInputs.cache
+C:\Users\casey.waters\code\lab-3-20cwaters\obj\Debug\net7.0\lab-3-20cwaters.AssemblyInfo.cs
+C:\Users\casey.waters\code\lab-3-20cwaters\obj\Debug\net7.0\lab-3-20cwaters.csproj.CoreCompileInputs.cache
+C:\Users\casey.waters\code\lab-3-20cwaters\obj\Debug\net7.0\lab-3-20cwaters.dll
+C:\Users\casey.waters\code\lab-3-20cwaters\obj\Debug\net7.0\refint\lab-3-20cwaters.dll
+C:\Users\casey.waters\code\lab-3-20cwaters\obj\Debug\net7.0\lab-3-20cwaters.pdb
+C:\Users\casey.waters\code\lab-3-20cwaters\obj\Debug\net7.0\lab-3-20cwaters.genruntimeconfig.cache
+C:\Users\casey.waters\code\lab-3-20cwaters\obj\Debug\net7.0\ref\lab-3-20cwaters.dll
